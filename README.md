@@ -3,7 +3,7 @@ HTTP Server Middleware
 
 # Deprecation warning!
 
-**Starting Janruary 22nd, 2018 http-interop is officially deprecated in favor of
+**Starting January 22nd, 2018 http-interop is officially deprecated in favor of
 [PSR-15][psr-15].**
 
 From v1.1, this package directly extends PSR-15 interfaces to provide backwards
