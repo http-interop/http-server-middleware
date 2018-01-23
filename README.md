@@ -67,5 +67,5 @@ use Interop\Http\Server\MiddlewareInterface;
 with:
 
 ```php
-use Psr\Http\Server\MiddlewareInterface;`
+use Psr\Http\Server\MiddlewareInterface;
 ```
