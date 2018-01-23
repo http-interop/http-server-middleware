@@ -13,6 +13,23 @@ Please switch to `psr/http-server-middleware` as soon as possible.
 
 [psr-15]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-15-request-handlers.md
 
+## Version Constraint Warning
+
+To continue using this package for backwards compatibility, use the following
+version constraint to avoid a type error:
+
+```json
+{
+    "require": {
+        "http-interop/http-server-middleware": "^1.1.1"
+    }
+}
+```
+
+See [issue #6][issue-6] for details.
+
+[issue-6]: https://github.com/http-interop/http-server-middleware/issues/6
+
 ## Changes Required
 
 There are two changes required to use the official `psr/http-server-middleware` package:
