@@ -11,7 +11,7 @@ compatibility and should no longer be added to new projects.
 
 Please switch to `psr/http-server-middleware` as soon as possible.
 
-[psr-15]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-15-http-handlers.md
+[psr-15]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-15-request-handlers.md
 
 ## Changes Required
 
